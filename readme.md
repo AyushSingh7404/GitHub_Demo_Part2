@@ -19,3 +19,5 @@ git push origin branch_name_you_want_to_push
 git fetch
 
 git pull origin master
+
+git branch -D branch_name    # command to delete a branch
